@@ -1,0 +1,27 @@
+Testing reading from file
+Test tests/test_empty.txt:
+Files /dev/fd/63 and /dev/fd/62 are identical
+Test tests/test_new_lines.txt:
+Files /dev/fd/63 and /dev/fd/62 are identical
+Test tests/test_no_new_line.txt:
+Files /dev/fd/63 and /dev/fd/62 are identical
+Test tests/test_smoke.txt:
+Files /dev/fd/63 and /dev/fd/62 are identical
+Test tests/test_symbols.txt:
+Files /dev/fd/63 and /dev/fd/62 are identical
+
+Testing reading from console
+Test tests/test_empty.txt:
+Files /dev/fd/63 and /dev/fd/62 are identical
+Test tests/test_new_lines.txt:
+Files /dev/fd/63 and /dev/fd/62 are identical
+Test tests/test_no_new_line.txt:
+Files /dev/fd/63 and /dev/fd/62 are identical
+Test tests/test_smoke.txt:
+Files /dev/fd/63 and /dev/fd/62 are identical
+Test tests/test_symbols.txt:
+Files /dev/fd/63 and /dev/fd/62 are identical
+
+Testing multiple files
+Files /dev/fd/63 and /dev/fd/62 are identical
+Files /dev/fd/63 and /dev/fd/62 are identical
