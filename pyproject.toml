@@ -18,7 +18,10 @@ classifiers = [
 requires-python = ">=3.8"
 
 # No dependencies
-dependencies = []
+dependencies = [
+    "numpy",
+    "cachetools"
+]
 
 [project.urls]
 "Homepage" = "https://github.com/hrustim25/mhs_python_hws"
